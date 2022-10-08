@@ -1,0 +1,5 @@
+com\example\ecomwebapp\dto\Product.class
+com\example\ecomwebapp\entity\ShoppingCart.class
+com\example\ecomwebapp\EcomwebappApplication.class
+com\example\ecomwebapp\repository\ShoppingCartRepository.class
+com\example\ecomwebapp\controllers\ShoppingCartController.class
